@@ -1,9 +1,9 @@
 name: SimpleAFK
 main: andreiwasfound.simpleafk.Main
 author: AndreiWasFound
-version: 1.0 DEV
+version: 1.0
 description: Simple /afk plugin.
-website:
+website: https://www.spigotmc.org/resources/simpleafk.81963/
 
 commands:
   afk:

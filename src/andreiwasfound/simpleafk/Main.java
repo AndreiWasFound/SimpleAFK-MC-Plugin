@@ -74,7 +74,7 @@ public class Main extends JavaPlugin implements Listener {
     }
 
     public void updateChecker() {
-        new UpdateChecker(this, 80958).getLatestVersion(version -> {
+        new UpdateChecker(this, 81963).getLatestVersion(version -> {
             if (this.getDescription().getVersion().equalsIgnoreCase(version)) {
                 printToConsole("SimpleAFK is up to date!");
             } else {
