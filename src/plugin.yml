@@ -1,0 +1,11 @@
+name: SimpleAFK
+main: andreiwasfound.simpleafk.Main
+author: AndreiWasFound
+version: 1.0 DEV
+description: Simple /afk plugin.
+website:
+
+commands:
+  afk:
+    description: Puts you in afk mode
+    permission: simpleafk.use
